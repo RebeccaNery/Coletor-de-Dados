@@ -1,0 +1,5 @@
+Bash:
+
+mongosh
+
+>>> Se conectar com sucesso: Você verá uma mensagem de boas-vindas, informações sobre a versão do MongoDB e o prompt mudará para algo como test>. Isso indica que o MongoDB está rodando localmente na porta padrão (27017) e não exigiu nenhuma senha para a conexão. Seu MongoDB está rodando sem autenticaç
