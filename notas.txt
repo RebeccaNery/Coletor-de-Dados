@@ -2,4 +2,10 @@ Bash:
 
 mongosh
 
->>> Se conectar com sucesso: Você verá uma mensagem de boas-vindas, informações sobre a versão do MongoDB e o prompt mudará para algo como test>. Isso indica que o MongoDB está rodando localmente na porta padrão (27017) e não exigiu nenhuma senha para a conexão. Seu MongoDB está rodando sem autenticaç
+>>> Se conectar com sucesso: Você verá uma mensagem de boas-vindas, informações sobre a versão do MongoDB e o prompt mudará para algo como test>. Isso indica que o MongoDB está rodando localmente na porta padrão (27017) e não exigiu nenhuma senha para a conexão. Seu MongoDB está rodando sem autenticação.
+
+* Criando o ambiente virtual --> python -m venv venv --> apenas uma vez em cada projeto!
+* Acessando o ambiente criado --> 
+    # No Windows (PowerShell/CMD)
+    .\venv\Scripts\activate
+* Desativando --> deactivate
